@@ -34,6 +34,7 @@ To use this puzzle solver, clone the repository and run the `puzzle.py` script. 
 ```bash
 python puzzle.py
 ```
+<img src="https://i.imgur.com/n3vkuQK.png" />
 
 ## License
 
